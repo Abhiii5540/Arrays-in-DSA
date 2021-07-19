@@ -1,4 +1,4 @@
-// this the brute-force way ro solve this problem 
+// this is the brute-force way to solve this problem 
 // time-complexity = O(n^2)
 
 // public class LargestSubArraySum {
