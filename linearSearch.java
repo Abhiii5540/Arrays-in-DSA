@@ -1,3 +1,5 @@
+// Time Complexity : O(N)
+
 import java.util.Scanner;
 
 public class linearSearch {
@@ -10,7 +12,7 @@ public class linearSearch {
 		if (f == -1)
 			System.out.println("Number not found");
 		else
-			System.out.println("number found at : " + f);
+			System.out.println(x + " is found at index : " + f);
 		sc.close();
 	}
 
