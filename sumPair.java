@@ -4,7 +4,7 @@ import java.util.HashSet;
 public class sumPair {
     public static void main(String[] args) {
         int a[] = { 12, 3, 5, 1, 9 };
-        int x = 81; /* targeted sum */
+        int x = 8; /* targeted sum */
         int n = a.length;
         ;
         boolean r = searchSumPair(a, x, n);
